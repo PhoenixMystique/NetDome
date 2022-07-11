@@ -14,8 +14,8 @@ Fully Tested With Anti-Ban Algorithm</b> <p>
     <a href="https://github.com/GramAddict/bot/pulls">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
     </a>
-    <a href="https://github.com/GramAddict/bot/issues">
-    	<img src="https://img.shields.io/github/issues/gramaddict/bot?style=flat" />
+    <a href="https://github.com/devwithadi/NetDome/issues">
+    	<img src="https://img.shields.io/github/issues/devwithadi/NetDome?style=flat" />
     </a>
     <a href="https://github.com/GramAddict/bot/pulls">
       <img src="https://img.shields.io/github/issues-pr/gramaddict/bot?style=flat" />
