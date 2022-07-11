@@ -1,9 +1,3 @@
-# InstaBee
-Python Bot Who is able To Scrap data Posts from other accounts and Upload it on Individuals Page 
-Fully Tested With Anti-Ban Algorithm
-Screen Shot of Tested page
-
-![root_page](https://user-images.githubusercontent.com/67161169/132946892-ee54de97-4ecc-42e1-b858-35c715fa8c21.jpg)
 
 Monitor The Working in The log File location(/Insta-bee/logs/)
 ![bot_logs](https://user-images.githubusercontent.com/67161169/132947022-d8046b35-5336-4873-ae7b-4055f6b27d29.jpg)
@@ -13,7 +7,8 @@ Monitor The Working in The log File location(/Insta-bee/logs/)
   <br />
   <h1 align="center">NetDome</h1>
   <br />
-  <p align="center">Looking for Instagram automation? I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b> <p>
+  <p align="center">Looking for Instagram automation? I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b><b>Bot Who is able To Scrap data Posts from other accounts and Upload it on Individuals Page 
+Fully Tested With Anti-Ban Algorithm</b> <p>
   <p align="center">
     <a href="https://github.com/gramaddict/bot/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/gramaddict/bot?style=flat" />
@@ -65,6 +60,8 @@ Yes! We are on __discord__ and we count a lot of __active users__ you can ask us
   <a href="https://discord.gg/NK8PNEFGFF">
     <img src="https://img.shields.io/discord/771481743471017994?style=flat">
   </a>
+Monitor The Working in The log File location(/Insta-bee/logs/)
+![bot_logs](https://user-images.githubusercontent.com/67161169/132947022-d8046b35-5336-4873-ae7b-4055f6b27d29.jpg)
 
 ## I saw there are a lot of similar projects on GitHub, why should I choose this one?
 You're right, there are plenty of other bot solutions. Most of them use API requests. However, you will get your account banned if you use API (1-30 days)!
