@@ -13,7 +13,7 @@ Monitor The Working in The log File location(/Insta-bee/logs/)
   <br />
   <h1 align="center">NetDome</h1>
   <br />
-  <p align="center">Looking for Instagram automation? I'm proud to present you a <b>100% free and open source Instagram bot</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b> <p>
+  <p align="center">Looking for Instagram automation? I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b> <p>
   <p align="center">
     <a href="https://github.com/gramaddict/bot/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/gramaddict/bot?style=flat" />
