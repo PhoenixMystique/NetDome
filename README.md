@@ -8,10 +8,7 @@
   <p align="center">Looking for Instagram automation? I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b><b>Bot Who is able To Scrap data Posts from other accounts and Upload it on Individuals Page 
 Fully Tested With Anti-Ban Algorithm</b> <p>
   <p align="center">
-    <a href="https://github.com/gramaddict/bot/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/gramaddict/bot?style=flat" />
-    </a>
-    <a href="https://www.python.org/">
+   <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/built%20with-Python3-red.svg?style=flat" />
     </a>
     <a href="https://github.com/GramAddict/bot/pulls">
@@ -28,15 +25,6 @@ Fully Tested With Anti-Ban Algorithm</b> <p>
     </a>
     <a href="https://img.shields.io/github/last-commit/gramaddict/bot/master?style=flat">
 	    <img src="https://img.shields.io/github/last-commit/GramAddict/bot/master?style=flat">
-    </a>
-    <a href="https://pypi.org/project/gramaddict/">
-      <img src="https://img.shields.io/pypi/dm/gramaddict">
-    </a>
-    <a href="https://github.com/GramAddict/bot#backers">
-	    <img src="https://img.shields.io/opencollective/backers/gramaddict?style=flat">
-    </a>
-    <a href="https://discord.gg/NK8PNEFGFF">
-	    <img src="https://img.shields.io/discord/771481743471017994?style=flat">
     </a>
   </p>
 </p>
