@@ -11,21 +11,16 @@ Fully Tested With Anti-Ban Algorithm</b> <p>
    <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/built%20with-Python3-red.svg?style=flat" />
     </a>
-    <a href="https://github.com/GramAddict/bot/pulls">
+    <a href="https://github.com/devwithadi/NetDome/pulls">
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
     </a>
     <a href="https://github.com/devwithadi/NetDome/issues">
     	<img src="https://img.shields.io/github/issues/devwithadi/NetDome?style=flat" />
     </a>
-    <a href="https://github.com/GramAddict/bot/pulls">
-      <img src="https://img.shields.io/github/issues-pr/gramaddict/bot?style=flat" />
+    <a href="https://github.com/devwithadi/NetDome/pulls">
+      <img src="https://img.shields.io/github/issues-pr/devwithadi/NetDome?style=flat" />
     </a>
-    <a href="https://github.com/GramAddict/bot/stargazers">
-	    <img src="https://img.shields.io/github/stars/gramaddict/bot?style=flat">
-    </a>
-    <a href="https://img.shields.io/github/last-commit/gramaddict/bot/master?style=flat">
-	    <img src="https://img.shields.io/github/last-commit/GramAddict/bot/master?style=flat">
-    </a>
+ 
   </p>
 </p>
 
