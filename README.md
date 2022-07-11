@@ -9,7 +9,7 @@ Monitor The Working in The log File location(/Insta-bee/logs/)
 ![bot_logs](https://user-images.githubusercontent.com/67161169/132947022-d8046b35-5336-4873-ae7b-4055f6b27d29.jpg)
 
 <p align="center">
-  <img src="https://github.com/GramAddict/bot/raw/master/res/logo.png">
+  <img src="[https://github.com/GramAddict/bot/raw/master/res/logo.png](https://github.com/GramAddict/bot/raw/master/res/logo.png)">
   <br />
   <h1 align="center">GramAddict</h1>
   <br />
