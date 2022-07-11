@@ -18,15 +18,17 @@ Fully Tested With Human Behavioural Algorithm</b> <p>
 </p>
 
 <br />
-# <b>InstaDome</b> is a social media automation and analytics tool for businesses – from small to medium and even large companies. With this social media automation tool, you can expect to enjoy a ton of features such as social media scheduling, calendar management, client management, and more.
 
-# Finally, NetDome users can analyze their social media post-performance basis how engaged their audience, influencers, demographics, and competitors are.
+<b>InstaDome</b> is a social media automation and analytics tool for businesses – from small to medium and even large companies. With this social media automation tool, you can expect to enjoy a ton of features such as social media scheduling, calendar management, client management, and more.
 
-# The process is straightforward. All you need to do is enter a keyword of your choice that pertains to your niche. And voila! Bot will Do All other Responsibility
+
+
+The process is straightforward. All you need to do is enter a keyword of your choice that pertains to your niche. And voila! Bot will Do All other Responsibility
 
 # Why should I automate my Social Media Accounts?
 It's very hard nowadays to grow an account. Have you ever been on the explore page? Platforms will show your post only to close accounts & accounts you interact most with, you will never be on the explore page. Nobody will see your beautiful photos, your hilarious memes, or whatever you are posting. But now you can do something about that! With NetDome you can __get noticed easily__, and if you really deserve it, your account will __grow super fast__!
 
+Finally, NetDome users can analyze their social media post-performance basis how engaged their audience, influencers, demographics, and competitors are.
 ## So, do I need to publish good content to grow?
 Of course you have to! This bot will mainly help you to get the __visibility you deserve__ and which is Instagram not giving you.
 
