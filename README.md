@@ -5,8 +5,8 @@
   <br />
   <h1 align="center">NetDome</h1>
   <br />
-  <p align="center"> I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and engagement by producing posts for your social media page with auto-scheduling and even liking, following, commenting.<b> Bot Who is able To Scrap data Posts from other accounts and Upload it on Individuals Page 
-Fully Tested With Human Behavioural Algorithm</b> <p>
+  <p align="center"> I'm proud to present you a <b>100% Tested Social media Management bot</b>. This bot will allow you to grow your following and <b>engagement by producing posts for your social media page with auto-scheduling and even liking, following, commenting</b>. Bot Who is able To Scrap data Posts from other accounts and Upload it on Individuals Page 
+Fully Tested With Human Behavioural Algorithm <p>
   <p align="center">
    <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/built%20with-Python3-red.svg?style=flat" />
