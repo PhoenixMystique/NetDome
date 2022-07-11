@@ -32,16 +32,10 @@ Finally, NetDome users can analyze their social media post-performance basis how
 ## So, do I need to publish good content to grow?
 Of course you have to! This bot will mainly help you to get the __visibility you deserve__ and which is Instagram not giving you.
 
-## Ok but I don't know how to start this journey...
-Don't worry about that now, it's not that hard to start botting with NetDome I tried to make it as noob-friendly as possible. In any case, if you follow the docs with all the steps provided, you will make it! You are also invited to join our community and ask for any help!
 
 ## We will Soon Launch Our Community To support this project
 
 
-<!-- Failed? [Check this out!](https://docs.gramaddict.org/#/quickstart?id=troubleshooting) -->
-
-<!-- # Bot crashes, what should I do?
-The script isn't perfect and may fail sometimes. If this is the case you can open a ticket on our [discord channel](https://discord.gg/NK8PNEFGFF). In that way you won't share with anyone your Instagram account name 😈. We'll be very happy to help you!
  -->
 <!-- # WOW! You dedicated so much time to this project! Why you did that for free??
 Well, we used to be in three a long time ago but suddenly my two friends left. This has been an opportunity for me to improve my skills in Python and that's why I didn't leave the project and keep maintaining it.
